@@ -15,7 +15,7 @@
   "description": "Node bindings for mdbx.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SergeyFromHell/node-mdbx.git"
+    "url": "git+https://github.com/rmw-lib/node-mdbx.git"
   },
   "keywords": [
     "mdbx",
@@ -26,10 +26,10 @@
     "bindings",
     "embedded"
   ],
-  "author": "SergeyFromHell",
-  "license": "ISC",
+  "author": "gcxfd",
+  "license": "AGPL",
   "bugs": {
-    "url": "https://github.com/SergeyFromHell/node-mdbx/issues"
+    "url": "https://github.com/rmw-lib/node-mdbx/issues"
   },
-  "homepage": "https://github.com/SergeyFromHell/node-mdbx#readme"
+  "homepage": "https://github.com/rmw-lib/node-mdbx#readme"
 }
